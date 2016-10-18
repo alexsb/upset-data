@@ -1,12 +1,12 @@
 {
-	"file": "https://b94836518bd4cc54071091054366f6f5c3187f02.googledrive.com/host/0B2Pu4bcI9HyOYlp5NHJ2eldsZE0/arch.csv",
+	"file": "https://raw.githubusercontent.com/alexsb/upset-data/master/arch.csv",
 	"name": "Arch",
 	"header": 0,
 	"separator": ";",
 	"skip": 0,
 	"meta": [
 		{ "type": "string", "index": 0, "name": "id" }	,
-		{ "type": "id", "index": 1, "name": "Label" }		
+		{ "type": "id", "index": 1, "name": "Label" }
 	],
 	"sets": [
 		{ "format": "binary", "start": 2, "end": 12 }
