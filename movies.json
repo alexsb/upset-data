@@ -1,6 +1,6 @@
 {
-	"file": "https://b94836518bd4cc54071091054366f6f5c3187f02.googledrive.com/host/0B2Pu4bcI9HyOYlp5NHJ2eldsZE0/movies.csv",
-	"name": "Online Movies Genres - Google Drive ",
+	"file": "https://raw.githubusercontent.com/alexsb/upset-data/master/movies.csv",
+	"name": "Online Movies Genres - GitHub",
 	"header": 0,
 	"separator": ";",
 	"skip": 0,
